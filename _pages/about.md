@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: me
 permalink: /
 subtitle: <a href='https://math.berkeley.edu'>UC Berkeley</a>. Address. Contacts. Moto. Etc.
 

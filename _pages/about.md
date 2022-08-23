@@ -2,7 +2,7 @@
 layout: about
 title: me
 permalink: /
-subtitle: PhD candidate at <a href='https://math.berkeley.edu'>UC Berkeley</a>
+subtitle: PhD candidate at <a href='https://math.berkeley.edu/people/grad/dong-gyu-lim'>UC Berkeley</a>
 
 profile:
   align: right

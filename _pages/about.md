@@ -2,7 +2,7 @@
 layout: about
 title: me
 permalink: /
-subtitle: <a href='https://math.berkeley.edu'>UC Berkeley</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD candidate at <a href='https://math.berkeley.edu'>UC Berkeley</a>
 
 profile:
   align: right

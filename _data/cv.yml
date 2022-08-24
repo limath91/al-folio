@@ -11,6 +11,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD (expected)
+      institution: University of California @ Berkeley
+      year: 2023
+      description:
+        - advisor: Sug Woo Shin
+        - Thesis: Nonemptiness criterion of single affine Deligne-Lusztig varieties
     - title: M.S
       institution: University of California @ Berkeley
       year: 2015

@@ -9,7 +9,7 @@ nav_order: 5
 
 In Fall 2022, I am the Graduate Student Instructor for Math 113 (Abstract Algebra) with Office Hours:
 
-<img src="/assets/img/OH.png" alt="Office Hours" width="50%">
+<img src="/assets/img/OH.png" alt="Office Hours" width="80%" class="center">
 
 Online: MTF 0800-0900
 

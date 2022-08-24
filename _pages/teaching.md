@@ -11,5 +11,5 @@ In Fall 2022, I am the Graduate Student Instructor for Math 113 (Abstract Algebr
 
 <img src="/assets/img/OH.jpg" alt="Office Hours">
 
-Online: Mondays, Tuesdays, Fridays 8am-9am
-Offline: Mondays 5pm-6pm, Tuesdays 4:30pm-6:30pm, Wednesdays 5:30pm-6:30pm, Fridays 3pm-4pm and 5pm-7pm
+Online: Mondays, Tuesdays, Fridays 0800-0900
+Offline: Mondays 1700-1800, Tuesdays 1630-1830, Wednesdays 1730-1830, Fridays 1500-1600, 1700-1900

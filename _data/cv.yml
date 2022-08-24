@@ -28,11 +28,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Bachelor of Sciences
+    - title: Bachelor's Degree
       institution: Seoul National University, Seoul, South Korea
       year: 2013
       description:
-        - Summa Cum Laude
+        - Mathematics (Summa Cum Laude)
+        - Economics
         
         
 - title: Experience

@@ -1,19 +1,19 @@
-- title: General Information
+- title: Personal Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Lim, Dong Gyu (임동규)
     - name: Date of Birth
-      value: 14th March 1879
+      value: May 2nd, 1991
     - name: Languages
-      value: English, German
+      value: Korean (Native), English (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S
+      institution: University of California @ Berkeley
+      year: 2015
       description:
         - Description 1.
         - Description 2.
@@ -21,13 +21,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Sciences
+      institution: Seoul National University, Seoul, South Korea
+      year: 2013
       description:
-        - Description 1.
-        - Description 2.
-
+        - Summa Cum Laude
+        
+        
 - title: Experience
   type: time_table
   contents:

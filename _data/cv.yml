@@ -15,8 +15,8 @@
       institution: University of California @ Berkeley
       year: 2023
       description:
-        - advisor: Sug Woo Shin
-        - Thesis: Nonemptiness criterion of single affine Deligne-Lusztig varieties
+        - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>
+        - Thesis":" Nonemptiness criterion of single affine Deligne-Lusztig varieties
     - title: M.S
       institution: University of California @ Berkeley
       year: 2015
@@ -77,13 +77,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2008
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Gold Medal in International Mathematical Olympiad (49th @ Madrid, Spain)
+        - Korean Injae Award, Presidential Award (by President Lee, MyungBak)
+    - year: 2010, 2011
       items: 
-        - Max Planck Medal
+        - Gold Award in Undergraduate Mathematical Competition (by Korean Mathematical Society)
 
 - title: Academic Interests
   type: nested_list
@@ -100,4 +100,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Tennis, Soccer, etc.

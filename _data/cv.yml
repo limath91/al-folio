@@ -23,7 +23,7 @@
     - title: Master's Degree
       institution: University of California @ Berkeley
       year: 2015
-      description: For the military service purpose
+      description: Military service purpose
 #        - Description 1.
 #        - Description 2.
 #        - title: Description 3.
@@ -74,16 +74,16 @@
 - title: Mathematics Outreach and Social Services
   type: time_table
   contents:
-    - title: President of Korean Graduate Student Association
-      institution: University of California @ Berkeley
-      year: 2014-2015
-      description: 
     - title: Researcher in Education & Culture
       institution: National Institute for Mathematical Sciences, Daejeon, South Korea
       year: 2015-2018
       description:
         - Studied and developed mathematical culture in South Korea
         - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
+    - title: President of Korean Graduate Student Association
+      institution: University of California @ Berkeley
+      year: 2014-2015
+      description: 
     - title: Treasurer of Korean Tennis Club
       institution: University of California @ Berkeley
       year: 2021-2022

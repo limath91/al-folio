@@ -21,6 +21,7 @@ social: false  # includes social icons at the bottom of the page
 Welcome 
 
 To the right, you can see me standing on a huge rock somewhere in Yosemite.
+
 <!--
 I love (active and collaborative) sports. I have been playing tennis almost two years now. I love soccer too.
 

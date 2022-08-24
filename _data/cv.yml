@@ -20,16 +20,16 @@
     - title:
       institution: On leave for 36 months for mandatory military service
       year: 2015-2018
-    - title: M.S
+    - title: Master's Degree
       institution: University of California @ Berkeley
       year: 2015
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      description: For the military service purpose
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#         contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
     - title: Bachelor's Degree
       institution: Seoul National University, Seoul, South Korea
       year: 2013

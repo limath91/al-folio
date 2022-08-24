@@ -36,7 +36,7 @@
         - Economics
         
         
-- title: Mathematics Outreach
+- title: IDK
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -69,12 +69,22 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Mathematics Outreach and Social Services
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: President of Korean Graduate Student Association
+      institution: University of California @ Berkeley
+      year: 2014-2015
+      description: 
+    - title: Researcher in Education & Culture
+      institution: National Institute for Mathematical Sciences, Daejeon, South Korea
+      year: 2015-2018
+      description:
+        - Studied and developed mathematical culture in South Korea
+        - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
+    - title: Treasurer of Korean Tennis Club
+      institution: University of California @ Berkeley
+      year: 2021-2022
 
 - title: Honors and Awards
   type: time_table

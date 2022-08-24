@@ -6,17 +6,12 @@ description: You can check my office hours and find materials of courses I have 
 nav: true
 nav_order: 5
 ---
-<style>
-  img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  }
-</style>
 
 In Fall 2022, I am "the" Graduate Student Instructor for Math 113 (Abstract Algebra) with Office Hours:
 
-<img src="/assets/img/OH.png" alt="Office Hours" style="width:80%;">
+<p align="center">
+  <img src="/assets/img/OH.png" alt="Office Hours" width="80%">
+</p>
 
 Online: MTF 0800-0900
 

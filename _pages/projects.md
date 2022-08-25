@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: teaching
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Find
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [54, others]
 horizontal: false
 ---
 In Fall 2022, I am "the" Graduate Student Instructor for Math 113 (Abstract Algebra) with Office Hours:

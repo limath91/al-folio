@@ -20,4 +20,4 @@ Offline: M 1700-1800, T 1630-1830, W 1730-1830, F 1500-1600 & 1700-1900
 
 For the previous courses I was a GSI for, see below:
 
-<a href="math.berkeley.edu/~limath">tentative link</a>
+<a href="https://math.berkeley.edu/~limath">tentative link</a>

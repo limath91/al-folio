@@ -14,3 +14,5 @@ It is available in Korean only. You can find it <a href="http://www.kyobobook.co
 <p align="right">
   <img src="/assets/img/Book.png" alt="My book" width="30%">
 </p>
+
+From September 2015 to August 2018, I have done my military duty in South Korea. During those 36 months, I have served as a researcher in _Education & Culture department_ in National Institute for Mathematical Sciences (NIMS) in Daejeon, South Korea. Main duties were (as the name suggests) study and develop 'math culture' in South Korea. 50 lectures all over South Korea and the audience was middle or high school students and general public with broad interests in math.

@@ -22,7 +22,7 @@ Just FYI, I am GSIing (alone) for eight different lectures (with six distinct le
 
 <hr>
 
-<h3>For the previous courses I was a GSI for, see below:</h3>
+<h4>For the previous courses I was a GSI for, see below:</h4>
 
 <!-- pages/projects.md -->
 <div class="projects">

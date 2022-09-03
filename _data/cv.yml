@@ -20,7 +20,7 @@
         - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>
         - Thesis, Nonemptiness criterion of single affine Deligne-Lusztig varieties
     - title:
-      institution: On leave for 36 months for mandatory military service
+      institution: On leave for 36 months for mandatory military service (see below for details)
       year: 2015.9 - 2018.8
     - title: Master's Degree
       institution: University of California @ Berkeley
@@ -35,7 +35,7 @@
 #            - Sub-description 2.
     - title: Visiting Exchange Student
       institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
-      year: 2013.1 - 5
+      year: 2013, Spring
     - title: Bachelor's Degree
       institution: Seoul National University, Seoul, South Korea
       year: 2009.3 - 2013.5
@@ -43,22 +43,24 @@
         - Bachelor of Science in Mathematics (Summa Cum Laude)
         - Bachelor of Arts in Economics
               
-- title: Honors and Awards
+- title: Honors, Awards, and Scholarships
   type: time_table
   contents:
-    - year: 2008.7
-      items: 
-        - <a href="https://www.imo-official.org/participant_r.aspx?id=17735">Gold Medal</a> in 49<sup>th</sup> International Mathematical Olympiad @ Madrid, Spain
-    - year: 2008.12
-      items:
-        - <a href="https://en.wikipedia.org/wiki/Talent_Award_of_Korea">Talent Medal of Korea</a>, Presidential Award (by President <i>Lee Myung-bak</i>)
+    - year: 2013 - 2021 (except the military period)
+      items: <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php">Overseas PhD Scholarship Program</a>, Korea Foundation for Advanced Studies 
+    - year: 2009 - 2013
+      items: <a href="https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp?ttab1=2">Presidential Science Scholarship</a>, Korea Foundation for the Advancement of Science & Creativity
     - year: 2010, 2011
       items: 
         - two Gold Awards in <a href="https://www.kms.or.kr/conference/sub10.html">University Students Contest of Mathematics</a> (Korean Mathematical Society)
+    - year: 2008.7
+      items: <a href="https://www.imo-official.org/participant_r.aspx?id=17735">Gold Medal</a> in 49<sup>th</sup> International Mathematical Olympiad @ Madrid, Spain
+    - year: 2008.12
+      items: <a href="https://en.wikipedia.org/wiki/Talent_Award_of_Korea">Talent Medal of Korea</a>, Presidential Award (by President <i>Lee Myung-bak</i>)
 - title: Teaching Experiences
   type: time_table
   contents:
-    - year:
+    - year:20
       items:
         -
         - 
@@ -81,13 +83,18 @@
 - title: Mathematics Outreach
   type: time_table
   contents:
-    - title: Researcher in Education & Culture
+    - title: Researcher in Education & Culture (Alternative Military Service)
       institution: National Institute for Mathematical Sciences, Daejeon, South Korea
       year: 2015-2018
       description:
         - Studied and developed mathematical culture in South Korea
         - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
-
+    - title: Writer
+      institution: <The Moment in Life when You Need a Math Brain>
+      year: 2019.7
+      description: Published a mathematics outreach book. See the tab <a href="https://limathub.github.io/cv/"><b>a book</b></a>.
+      
+        
 - title: Social Services
   type: time_table
   contents:

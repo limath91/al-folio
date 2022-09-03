@@ -33,15 +33,15 @@
 #         contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-    - title: Visiting Exchange Student
-      institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
-      year: 2013, Spring
     - title: Bachelor's Degree
       institution: Seoul National University, Seoul, South Korea
       year: 2009.3 - 2013.5
       description:
         - Bachelor of Science in Mathematics (Summa Cum Laude)
         - Bachelor of Arts in Economics
+      institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
+      description: Visiting Exchange Student (Spring 2013)
+        
               
 - title: Honors, Awards, and Scholarships
   type: time_table
@@ -51,7 +51,8 @@
     - year: 2009 - 2013
       items: <a href="https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp?ttab1=2">Presidential Science Scholarship</a>, Korea Foundation for the Advancement of Science & Creativity
     - year: 2010, 2011
-      items: two Gold Awards in <a href="https://www.kms.or.kr/conference/sub10.html">University Students Contest of Mathematics</a> (Korean Mathematical Society)
+      items:
+        - two Gold Awards in <a href="https://www.kms.or.kr/conference/sub10.html">University Students Contest of Mathematics</a> (Korean Mathematical Society)
     - year: 2008.7
       items: <a href="https://www.imo-official.org/participant_r.aspx?id=17735">Gold Medal</a> in 49<sup>th</sup> International Mathematical Olympiad @ Madrid, Spain
     - year: 2008.12

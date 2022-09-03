@@ -91,7 +91,7 @@
         - Studied and developed mathematical culture in South Korea
         - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
     - title: Writer
-      institution: &#x300A;The Moment in Life when You Need a Math Brain&#x300B;
+      institution: &lt;The Moment in Life when You Need a Math Brain&gt;
       year: 2019.7
       description: Published a math outreach book. See the tab <a href="{{ site.url }}/assets/pdf/CV%20(DongGyu%20Lim).pdf"><b>a book</b></a>.
       

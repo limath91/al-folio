@@ -46,7 +46,7 @@
 - title: Honors, Awards, and Scholarships
   type: time_table
   contents:
-    - year: 2013 - 2015<br>2018-2021
+    - year: 2013 - 2015<br>2018 - 2021
       items: <a href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php">Overseas PhD Scholarship Program</a>, Korea Foundation for Advanced Studies 
     - year: 2009 - 2013
       items: <a href="https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp?ttab1=2">Presidential Science Scholarship</a>, Korea Foundation for the Advancement of Science & Creativity
@@ -84,14 +84,14 @@
   contents:
     - title: Researcher in Education & Culture (Alternative Military Service)
       institution: National Institute for Mathematical Sciences, Daejeon, South Korea
-      year: 2015-2018
+      year: 2015 - 2018
       description:
         - Studied and developed mathematical culture in South Korea
         - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
     - title: Writer
-      institution: <The Moment in Life when You Need a Math Brain>
+      institution: &laquo;The Moment in Life when You Need a Math Brain&raquo
       year: 2019.7
-      description: Published a mathematics outreach book. See the tab <a href="{{ site.url }}/cv/"><b>a book</b></a>.
+      description: Published a math outreach book. See the tab <a href="{{ site.url }}/assets/pdf/CV%20(DongGyu%20Lim).pdf"><b>a book</b></a>.
       
         
 - title: Social Services
@@ -99,11 +99,11 @@
   contents:
     - title: President of Korean Graduate Student Association
       institution: University of California @ Berkeley
-      year: 2014-2015
+      year: 2014 - 2015
       description: 
     - title: Treasurer of Korean Tennis Club
       institution: University of California @ Berkeley
-      year: 2021-2022
+      year: 2021 - 2022
 
 
 

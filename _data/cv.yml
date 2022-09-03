@@ -39,7 +39,7 @@
       description:
         - Bachelor of Science in Mathematics (Summa Cum Laude)
         - Bachelor of Arts in Economics
-      institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
+    - institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
       description: Visiting Exchange Student (Spring 2013)
         
               
@@ -90,9 +90,9 @@
         - Studied and developed mathematical culture in South Korea
         - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
     - title: Writer
-      institution: (The Moment in Life when You Need a Math Brain)
+      institution: The Moment in Life when You Need a Math Brain
       year: 2019.7
-      description: Published a math outreach book. See the tab <a href="{{ site.url }}/assets/pdf/CV%20(DongGyu%20Lim).pdf"><b>a book</b></a>.
+      description: Published a math outreach book. See the tab <a href="{{ site.baseurl }}/assets/pdf/CV%20(DongGyu%20Lim).pdf"><b>a book</b></a>.
       
         
 - title: Social Services

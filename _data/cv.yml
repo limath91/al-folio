@@ -92,7 +92,7 @@
     - title: Writer
       institution: <The Moment in Life when You Need a Math Brain>
       year: 2019.7
-      description: Published a mathematics outreach book. See the tab <a href="https://limathub.github.io/cv/"><b>a book</b></a>.
+      description: Published a mathematics outreach book. See the tab <a href="{{ site.url }}/cv/"><b>a book</b></a>.
       
         
 - title: Social Services

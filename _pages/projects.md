@@ -21,8 +21,8 @@ Offline: M 1700-1800, T 1630-1830, W 1730-1830, F 1500-1600 & 1700-1900
 Just FYI, I am GSIing (alone) for eight different lectures (with six distinct lecturers).
 
 <hr>
-
-<h4>For the previous courses I was a GSI for, see below:</h4>
+<br><br>
+<h5>For the previous courses I was a GSI for, see below:</h5>
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -18,11 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome 
+Welcome! This page is still under construction.
+
+If your background is white/black and you prefer a darker/brighter theme, click the crescent/sun icon in the menu.
 
 On the right, you can see me standing on a huge rock somewhere in Yosemite.
 
-If your background is white/black and you prefer a darker/brighter theme, click the crescent/sun icon in the menu.
 
 <!--
 I love (active and collaborative) sports. I have been playing tennis almost two years now. I love soccer too.

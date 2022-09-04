@@ -62,40 +62,34 @@
 - title: Teaching Experiences
   type: time_table
   contents:
-    - year: 2018 - 2022
-      items: Graduate Student Instructor (GSI), Department of Mathematics, UC Berkeley
+    - title: Graduate Student Instructor (GSI), Department of Mathematics, UC Berkeley
+      year: 2018 - 2022
+      institution: Run discussion sections
+      description: 
         - Fall 2022, Math 113 (Abstract Algebra)
         - Fall 2021, Math 185 (Complex Analysis)
         - Summer 2021, Math W53 (Web-based Multivariable Calculus)
         - Fall 2020, Math 110 (Linear Algebra)
         - Summer 2020, Math W53
         - Spring 2020, Math 126 (Partial Differential Equations)
-        - Spring 2019, Math 54 (Linear Algebra and Differential Equations)
+        - Fall 2019, Math 54 (Linear Algebra and Differential Equations)
+        - Spring 2019, Math 54
         - Summer 2019, Math W53
         - Fall 2018, Math 54
-    - year: 2013 - 2015
-      items: Graduate Student Instructor (GSI), Department of Mathematics, UC Berkeley
-        - Spring 2014, Math 53 (Multivariable Calculus)
-        - Summer 2014, Math 54 (Linear Algebra and Differential Equations)
+    - title: Graduate Student Instructor (GSI), Department of Mathematics, UC Berkeley
+      year: 2013 - 2015
+      institution: Run discussion sections
+      description: 
+        - Spring 2014, Math 53
+        - Summer 2014, Math 54, <i>Full Instructor</i>
         - Fall 2014, Math 54
         - Spring 2015, Math 1B (Calculus)
-        
-    - year: 
-      items: 
-    - year:
-      items:
-    - year:
-      items:
-    - year:
-      items:
-    - year:
-      items:
-    - year:
-      items:
-    - year:
-      items:
-    - year:
-      items:
+    - title: <a href="https://math.berkeley.edu/wp/drp/program-overview/">Directed Reading Program Mentor</a>, UC Berkeley
+      year: Spring 2015<br>Spring 2020
+      institution: Worked with an undergraduate student to finish an independent reading project
+      description:
+        - "Ax-Grothendieck Theorem: Basic Model Theory"
+        - Arithmetic of Elliptic Curves
 - title: Mathematics Outreach
   type: time_table
   contents:

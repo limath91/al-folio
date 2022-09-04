@@ -22,7 +22,7 @@ Welcome! This page is still under construction.
 
 If your background is white/black and you prefer a darker/brighter theme, click the crescent/sun icon in the menu.
 
-On the right, you can see me standing on a huge rock somewhere in Yosemite.
+The picture is me standing on a huge rock somewhere in Yosemite.
 
 
 <!--

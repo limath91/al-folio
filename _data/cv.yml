@@ -5,8 +5,6 @@
       value: Lim, Dong Gyu (임동규)
     - name: Address
       value: Evans Hall 775, UC Berkeley, CA 94720
-    - name: Place of Birth
-      value: Korea, Republic of
     - name: Languages
       value: Korean (Native), English (Fluent)
 
@@ -18,7 +16,7 @@
       year: 2018.8 - 2023.5
       description:
         - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>
-        - Thesis, Nonemptiness criterion of single affine Deligne-Lusztig varieties
+        - Thesis title{:} Geometry of affine Deligne-Lusztig varieties>
     - title:
       institution: On leave for 36 months for mandatory military service (see below for details)
       year: 2015.9 - 2018.8

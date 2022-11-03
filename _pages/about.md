@@ -20,13 +20,14 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome! I am Dong Gyu Lim. (DG is my first name.)
 
-I am on job market now. (In May 2023, I am expecting to graduate and receive my PhD.)
+I am on job market now (Fall 2022 - Spring 2023).
+In May 2023, I am expecting to receive my PhD diploma.
 
 The picture is me standing on a huge rock somewhere in Yosemite.
 
+This website is under construction (almost done, hopefully).
 If your background is white/black and you prefer a darker/brighter theme, click the crescent/sun icon in the menu.
 
-This website is under construction (almost done).
 
 <!--
 I love (active and collaborative) sports. I have been playing tennis almost two years now. I love soccer too.

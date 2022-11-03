@@ -99,7 +99,7 @@
     - title: Writer
       institution: Moments in Life when You Need Your Math Brain
       year: 2019.7
-      description: Wrote a math outreach book. See the tab <a href="{{ site.url }}/a%20book"><b>a book</b></a>.
+      description: Wrote a math outreach book. See the tab <a href="../a%20book"><b>a book</b></a>.
       
         
 - title: Social Services

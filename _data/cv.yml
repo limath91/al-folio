@@ -18,7 +18,7 @@
         - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>,
         - with the thesis title "Geometry of affine Deligne-Lusztig varieties"
     - title:
-      institution: <p align="right">On leave for 36 months for mandatory military service (see below for details)</p>
+      institution: ~~~~~On leave for 36 months for mandatory military service
       year:
     - title: Master's Degree
       institution: University of California @ Berkeley
@@ -34,7 +34,7 @@
 #            - Sub-description 2.
     - year: 2013.1 - 2013.5
       institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
-      description: Visiting Exchange Student (Spring 2013)
+      description: Exchange Student Program (Spring 2013)
     - title: Bachelor's Degree
       institution: Seoul National University, Seoul, South Korea
       year: 2009.3 - 2013.5
@@ -97,9 +97,9 @@
         - Studied and developed mathematical culture in South Korea
         - Delivered public lectures 50 times (overall 5000 people) almost everywhere in South Korea
     - title: Writer
-      institution: The Moment in Life when You Need a Math Brain
+      institution: Moments in Life when You Need Your Math Brain
       year: 2019.7
-      description: Published a math outreach book. See the tab <a href="{{ site.baseurl }}/assets/pdf/CV%20(DongGyu%20Lim).pdf"><b>a book</b></a>.
+      description: Wrote a math outreach book. See the tab <a href="{{ site.baseurl }}/assets/pdf/CV%20(DongGyu%20Lim).pdf"><b>a book</b></a>.
       
         
 - title: Social Services
@@ -109,8 +109,8 @@
       institution: University of California @ Berkeley
       year: 2014 - 2015
       description: 
-    - title: Treasurer of Korean Tennis Club
-      institution: University of California @ Berkeley
+    - title: Co-founder and Vice President of East Bay Korean Tennis Club
+      institution: East Bay area (Berkeley) and San Francisco area
       year: 2021 - 2022
 
 

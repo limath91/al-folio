@@ -18,7 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! This page is still under construction.
+Welcome! I am Dong Gyu Lim. (DG is my first name.)
+
+I am on job market now. (In May 2023, I am expecting to graduate and receive my PhD.)
+
+This page is under construction.
 
 If your background is white/black and you prefer a darker/brighter theme, click the crescent/sun icon in the menu.
 

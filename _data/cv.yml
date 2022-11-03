@@ -6,7 +6,7 @@
     - name: Address
       value: Evans Hall 775, UC Berkeley, CA 94720
     - name: Email
-      value: limath (at) the edu email address with `berkeley'
+      value: limath (at) the typical school email address with 'berkeley'
 
 - title: Education
   type: time_table
@@ -15,10 +15,10 @@
       institution: University of California @ Berkeley
       year: 2018.8 - 2023.5
       description:
-        - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>
-        - Thesis title{:} Geometry of affine Deligne-Lusztig varieties>
+        - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>,
+        - with the thesis title "Geometry of affine Deligne-Lusztig varieties"
     - title:
-      institution: On leave for 36 months for mandatory military service (see below for details)
+      institution: <center>On leave for 36 months for mandatory military service (see below for details)</center>
       year:
     - title: Master's Degree
       institution: University of California @ Berkeley

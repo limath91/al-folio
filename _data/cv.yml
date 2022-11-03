@@ -5,8 +5,8 @@
       value: Lim, Dong Gyu (임동규)
     - name: Address
       value: Evans Hall 775, UC Berkeley, CA 94720
-    - name: Languages
-      value: Korean (Native), English (Fluent)
+    - name: Email
+      value: limath (at) the edu email address with `berkeley'
 
 - title: Education
   type: time_table

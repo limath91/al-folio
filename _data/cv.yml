@@ -19,7 +19,7 @@
         - Thesis title{:} Geometry of affine Deligne-Lusztig varieties>
     - title:
       institution: On leave for 36 months for mandatory military service (see below for details)
-      year: 2015.9 - 2018.8
+      year:
     - title: Master's Degree
       institution: University of California @ Berkeley
       year: 2013.8 - 2015.8
@@ -32,16 +32,15 @@
 #         contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
+    - year: 2013.1 - 2013.5
+      institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
+      description: Visiting Exchange Student (Spring 2013)
     - title: Bachelor's Degree
       institution: Seoul National University, Seoul, South Korea
       year: 2009.3 - 2013.5
       description:
         - Bachelor of Science in Mathematics (Summa Cum Laude)
-        - Bachelor of Arts in Economics (double major)
-    - year: 2013.1 - 2013.5
-      institution: Rutgers, the State University of New Jersey, New Brunswick, NJ, U.S.A
-      description: Visiting Exchange Student (Spring 2013)
-        
+        - Bachelor of Arts in Economics (double major)        
               
 - title: Honors, Awards, and Scholarships
   type: time_table
@@ -51,7 +50,7 @@
     - year: 2009 - 2013
       items: <a href="https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp?ttab1=2">Presidential Science Scholarship</a>, Korea Foundation for the Advancement of Science & Creativity
     - year: 2010, 2011
-      items: two Gold Awards in <a href="https://www.kms.or.kr/conference/sub10.html">University Students Contest of Mathematics</a> (Korean Mathematical Society)
+      items: 2 Gold Awards in <a href="https://www.kms.or.kr/conference/sub10.html">University Students Contest of Mathematics</a> (Korean Mathematical Society)
     - year: 2008.12
       items: <a href="https://en.wikipedia.org/wiki/Talent_Award_of_Korea">Talent Medal of Korea</a>, Presidential Award (by President <i>Lee Myung-bak</i>)
     - year: 2008.7
@@ -62,7 +61,7 @@
   contents:
     - title: Graduate Student Instructor (GSI), Department of Mathematics, UC Berkeley
       year: 2018 - 2022
-      institution: Run discussion sections
+      institution: Run discussion sections or Hold 10-12 Office Hours
       description: 
         - Fall 2022, Math 113 (Abstract Algebra)
         - Fall 2021, Math 185 (Complex Analysis)
@@ -79,15 +78,15 @@
       institution: Run discussion sections
       description: 
         - Spring 2014, Math 53
-        - Summer 2014, Math 54, <i>Full Instructor</i>
+        - Summer 2014, Math 54, <i>Full-time Instructor</i>
         - Fall 2014, Math 54
         - Spring 2015, Math 1B (Calculus)
     - title: <a href="https://math.berkeley.edu/wp/drp/program-overview/">Directed Reading Program Mentor</a>, UC Berkeley
       year: Spring 2015<br><br>Spring 2020
-      institution: Worked with an undergraduate student to finish an independent reading project
+      institution: Mentored an undergraduate student to carry out an independent reading project
       description:
         - "Ax-Grothendieck Theorem: Basic Model Theory"
-        - Arithmetic of Elliptic Curves
+        - "Arithmetic of Elliptic Curves"
 - title: Mathematics Outreach
   type: time_table
   contents:

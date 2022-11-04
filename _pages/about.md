@@ -12,7 +12,7 @@ profile:
     <p>Evans Hall 775</p>
     <p>Department of Mathematics, UC Berkeley</p>
     <p>Berkeley, CA 94720</p>
-    <p><text>Email</text>: <a href="mailto:limath@math.berkeley.edu">limath</a> (Click!)</p>
+    <p>E-mail: <a href="mailto:limath@math.berkeley.edu">limath</a> (Click!)</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page

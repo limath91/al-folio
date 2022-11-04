@@ -11,7 +11,7 @@ horizontal: false
 In Fall 2022, I am "the" Graduate Student Instructor for Math 113 (Abstract Algebra) with Office Hours:<br>
 
 <p align="center">
-  <img src="/assets/img/OH.png" alt="Office Hours" width="80%">
+  <img src="/assets/img/OH.png" alt="Office Hours" width="50%">
 </p>
 
 Online: MTF 0800-0900

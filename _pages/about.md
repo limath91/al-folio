@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome! I am Dong Gyu Lim. (Dong Gyu is my first name.)
 
-I am on the job market now (Fall 2022 - Spring 2023).
+I am on the job market now (Fall 2022 - Spring 2023).<br>
 In May 2023, I am expecting to receive my PhD diploma.
 
 The picture is me standing on a huge rock somewhere in Yosemite.

@@ -8,12 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
+  address:
     <p>Evans Hall 775</p>
     <p>Department of Mathematics, UC Berkeley</p>
     <p>Berkeley, CA 94720</p>
-    <p>limath at (the city my school is in) dot edu</p>
-
+    Email: <a href="mailto:limath@math.berkeley.edu">limath</a> (Click!)
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page

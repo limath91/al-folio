@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Dong Gyu Lim. (DG is my first name.)
+Welcome! I am Dong Gyu Lim. (Dong Gyu is my first name.)
 
 I am on the job market now (Fall 2022 - Spring 2023).
 In May 2023, I am expecting to receive my PhD diploma.

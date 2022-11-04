@@ -6,7 +6,7 @@
     - name: Address
       value: Evans Hall 775, UC Berkeley, CA 94720
     - name: Email
-      value: limath (at) the typical school email address with 'berkeley'
+      value: limath (at) the typical school email address with 'berkeley' or <a href="mailto:limath@math.berkeley.edu">Send Email</a>
 
 - title: Education
   type: time_table

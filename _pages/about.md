@@ -12,6 +12,7 @@ profile:
     <p>Evans Hall 775</p>
     <p>Department of Mathematics, UC Berkeley</p>
     <p>Berkeley, CA 94720</p>
+    <p>limath at (the city my school is in) dot edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

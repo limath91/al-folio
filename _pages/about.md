@@ -25,7 +25,6 @@ In May 2023, I am expecting to receive my PhD diploma.
 
 The picture is me standing on a huge rock somewhere in Yosemite.
 
-This website is under construction (almost done, hopefully).
 If your background is white/black and you prefer a darker/brighter theme, click the crescent/sun icon in the menu.
 
 

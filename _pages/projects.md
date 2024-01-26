@@ -8,9 +8,7 @@ nav_order: 2
 display_categories: [53, 54, 110, 126]
 horizontal: false
 ---
-In Spring 2023, I am the Graduate Student Instructor for Math 115 (Number Theory) and Math 126 (Partial Differential Equations) with Office Hours:
 
-Offline: M 1700-1800, W 1700-1800, Th 1100-1200
 
 <hr>
 <br><br>

@@ -4,7 +4,7 @@ title: photo arxiv
 permalink: /photos/
 description: The collection of my amateur photos
 nav: true
-nav_order: 5
+nav_order: 7
 horizontal: false
 ---
 

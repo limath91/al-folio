@@ -10,10 +10,10 @@ horizontal: false
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/amateur/cafe_or_bar_231026.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/amateur/DSCF2376.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/autumn_tree_on_delaware_231003.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/amateur/DSCF2380.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,10 +25,10 @@ Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF2391.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF2395.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -36,12 +36,19 @@ The rest of the images in this post are all zoomable, arranged into different mi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF2401.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF2408.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF2452.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/amateur/DSCF2477.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/amateur/DSCF2545.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+
 </div>

@@ -8,10 +8,6 @@ nav_order: 7
 horizontal: false
 ---
 
-<hr>
-<br><br>
-<h5>For the previous courses I was a GSI for, see below:</h5>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/amateur/cafe_or_bar_231026.jpg" class="img-fluid rounded z-depth-1" %}

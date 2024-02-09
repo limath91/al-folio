@@ -42,7 +42,7 @@ horizontal: false
     SunsetS (Click to zoom)
 </div>
 
-<div class="row mt-3">
+<div class="row mt-7">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF3484.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>

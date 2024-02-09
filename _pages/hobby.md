@@ -1,6 +1,7 @@
 ---
 layout: post
 title: photo arxiv
+permalink: /photos/
 description: The collection of my amateur photos
 nav: true
 nav_order: 7
@@ -113,7 +114,7 @@ horizontal: false
     </div>
 </div>
 <div class="caption">
-    Misc.
+    @ Night
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

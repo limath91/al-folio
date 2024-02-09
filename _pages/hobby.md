@@ -24,6 +24,8 @@ horizontal: false
     Three important places in my current living.
 </div>
 
+<br> Click to zoom. In some browsers (including Safari), the photo quality can be lower.
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF2408.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -39,10 +41,10 @@ horizontal: false
     </div>
 </div>
 <div class="caption">
-    SunsetS (Click to zoom)
+    SunsetS
 </div>
 
-<div class="row mt-7">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF3484.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>

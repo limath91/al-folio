@@ -121,7 +121,7 @@ horizontal: false
         {% include figure.html path="assets/amateur/DSCF3197.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF3680.JPG" class="w-10 rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF3680.JPG" class="rounded z-depth-1" width="w-10" zoomable=true %}
     </div>
 </div>
 <div class="caption">

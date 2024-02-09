@@ -35,9 +35,6 @@ horizontal: false
         {% include figure.html path="assets/amateur/DSCF3536.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF3538.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF3641.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

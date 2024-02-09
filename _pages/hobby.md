@@ -100,7 +100,7 @@ horizontal: false
 <div class="caption">
     Trees under and Birds in the Sky
 </div>
-<div class="row mt-3">
+<div class="row mt-6">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF3952.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -110,18 +110,26 @@ horizontal: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF3855.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF4040.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF4053.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/amateur/DSCF4718.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/amateur/DSCF5347.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Nature
 </div>
+
 <div class="row mt-6">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF3694.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -144,7 +152,7 @@ horizontal: false
         {% include figure.html path="assets/amateur/DSCF5113.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF5143.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
+        {% include figure.html path="assets/amateur/DSCF5143.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -169,22 +177,10 @@ horizontal: false
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF3568.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF4236.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF4361.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    1
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF4177.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF4234.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
@@ -197,7 +193,7 @@ horizontal: false
     </div>
 </div>
 <div class="caption">
-    2
+    1
 </div>
 
 <div class="row mt-3">
@@ -210,24 +206,12 @@ horizontal: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF4690.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
     </div>
-</div>
-<div class="caption">
-    3
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF4718.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/amateur/DSCF5347.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF5640.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    4
+    2
 </div>
 
 <div class="row mt-3">
@@ -240,9 +224,15 @@ horizontal: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/amateur/DSCF5715.JPG" class="img-fluid rounded z-depth-1" max-width="20%" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/amateur/DSCF3568.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/amateur/DSCF4177.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 <div class="caption">
-    5
+    3
 </div>
 
 
